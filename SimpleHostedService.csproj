@@ -8,10 +8,12 @@
         <Authors>Vadim Kirpikov</Authors>
         <Description>This is extension to help you to easily integrate hosted service with one executing task</Description>
         <Copyright>vadimkirpikov</Copyright>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+      <None Include="README.md" Pack="true" PackagePath="\"/>
     </ItemGroup>
 
 </Project>
