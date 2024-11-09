@@ -9,7 +9,7 @@
         <Description>This is extension to help you to easily integrate hosted service with one executing task</Description>
         <Copyright>vadimkirpikov</Copyright>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageLicenseUrl>LICENSE.txt</PackageLicenseUrl>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
         <RepositoryUrl>https://github.com/vadimkirpikov/simple-hosted-service-package</RepositoryUrl>
         <RepositoryType>Public</RepositoryType>
         <PackageTags>IHostedService</PackageTags>
