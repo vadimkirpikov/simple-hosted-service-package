@@ -9,7 +9,7 @@
         <Description>This is extension to help you to easily integrate hosted service with one executing task</Description>
         <Copyright>/LICENSE</Copyright>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageLicenseUrl>LICENSE.txt</PackageLicenseUrl>
+        <PackageLicenseUrl>LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/vadimkirpikov/simple-hosted-service-package</RepositoryUrl>
         <RepositoryType>Public</RepositoryType>
         <PackageTags>IHostedService</PackageTags>
@@ -18,7 +18,7 @@
     <ItemGroup>
       <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
       <None Include="README.md" Pack="true" PackagePath=""/>
-      <None Include="LICENSE.txt" Pack="true" PackagePath=""/>
+      <None Include="LICENSE" Pack="true" PackagePath=""/>
     </ItemGroup>
 
 </Project>
